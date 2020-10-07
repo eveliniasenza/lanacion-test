@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.font-primary {
+  font-family: SuecaSlabMedium sans-serif;
+}
+
+.font-secondary {
+  font-family: Arial;
+}
+
+.font-primary-bold {
+  font-family: SuecaSlabBold sans-serif;
+}

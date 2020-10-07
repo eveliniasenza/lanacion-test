@@ -1,0 +1,46 @@
+.card {
+  width: 350px;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.card-container {
+  padding: 16px;
+}
+
+.image {
+  height: 250px;
+  max-width: 100%;
+  background-position: center center;
+  background-size: cover;
+}
+
+.card:hover .category {
+  color: #0074c4;
+}
+
+.category {
+  transition: 0.3s;
+  color: #00538c;
+}
+
+.h3 {
+  font-size: 26px;
+  margin: 8px 0;
+}
+
+.p {
+  margin: 8px 0;
+  font-size: 17px;
+  color: #5F5F5F;
+  font-weight: 700;
+}
+
+.font{
+  font-family: SuecaSlabBold;
+  font-size: 20px;
+}
+
